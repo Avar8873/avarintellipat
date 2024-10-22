@@ -1,1 +1,1 @@
-feature branch chnages
+this is the merge file and conflict chnages resolution 
