@@ -1,0 +1,477 @@
+    1  ls
+    2  cleaar
+    3  clear
+    4  sudo apt install git
+    5  sudo apt install git | grep newest
+    6  mkdir abcde
+    7  ls -lrth
+    8  ls
+    9  rm -rf logintolocal
+   10  ll
+   11  ls
+   12  ls -lrth
+   13  ls -latr
+   14  ls -lter
+   15  ls -ltr
+   16  ls -trl
+   17  clear
+   18  cd abcde
+   19  ls
+   20  git init
+   21  ls
+   22  ll
+   23  git remote add origin https://github.com/Avar8873/avarintellipat.git
+   24  ls
+   25  ll
+   26  echo "this is my frist file on repository also as a frist commit" >> myfristcommit.txt
+   27  cat myfristcommit.txt
+   28  clear
+   29  touch it-doesnt-matter-what-is-the-name.txt
+   30  ls
+   31  ll
+   32  ls -ltr
+   33  ls -rtl
+   34  ls -rt
+   35  ls -r
+   36  ls -t
+   37  ls -l
+   38  git status
+   39  git add it-doesnt-matter-what-is-the-name.txt 
+   40  git status
+   41  touch 1.txt 2.txt 3.txt
+   42  ll
+   43  git status
+   44  git add 1.txt .
+   45  git status
+   46  git add 1.txt
+   47  git status
+   48  touch 5.txt 6.txt 7.txt
+   49  git add . 5.txt
+   50  git status
+   51  ls
+   52  pwd
+   53  mkdir  logintolocal
+   54  ls
+   55  clear
+   56  sudo su -
+   57  sudo apt update -y
+   58  sudo apt upgrade -y
+   59  git status
+   60  cd abcde
+   61  git status
+   62  git add .
+   63  git status
+   64  ll
+   65  git branch
+   66  git status
+   67  git branch status
+   68  git branch -M main
+   69  git status
+   70  git branch
+   71  git branch status
+   72  git commit -m "my frist commit"
+   73  git branch status
+   74  git status
+   75  touch 13.txt
+   76  git status
+   77  git add .
+   78  git status
+   79  touch 14.txt
+   80  git status
+   81  git branch status
+   82  git branch
+   83  git main
+   84  git branch main 
+   85  git branch status
+   86  git branch main-1
+   87  git branch
+   88  git status
+   89  git push -u origin main
+   90  cd abcde
+   91  git push -u origin main
+   92  cd abcde
+   93  ll
+   94  git branch
+   95  git branch -d main-1
+   96  git branch
+   97  git brnach -a
+   98  git branch 0a
+   99  git branch -a
+  100  git branch -d 0a
+  101  git branch -a
+  102  git branch -D
+  103  git branch status
+  104  git branch -a
+  105  git branch -D status
+  106  git branch nilamani
+  107  git branch -a
+  108  git branch
+  109  git branch -M nilamani
+  110  git branch
+  111  git branch -a
+  112  git status
+  113  git branch -m main
+  114  git branch -a
+  115  git branch 
+  116  git branch nilamani
+  117  git branch
+  118  git branch -h
+  119  git checkout nilamani
+  120  git branch -a
+  121  git checkout --branch manish
+  122  git checkout -b manish
+  123  git -h
+  124  git branc -a
+  125  git branch -a
+  126  git switch main
+  127  git switch nilamani 
+  128  git branch 
+  129  git checkout -h
+  130  git checkout --help
+  131  top
+  132  top | grep git
+  133  ls
+  134  cd abcdde
+  135  cd abcde
+  136  git branch
+  137  git checkout manish
+  138  ls
+  139  git add .
+  140  git statusg
+  141  git status
+  142  ls
+  143  git push -u origin manish
+  144  git status
+  145  git commit --help
+  146  git rm 14.txt
+  147  git status
+  148  git-rm 14.txt
+  149  git add --help
+  150  git remove 14.txt
+  151  ls
+  152  rm -rf 14.txt
+  153  ls
+  154  git stautus
+  155  git status
+  156  git add.
+  157  git add .
+  158  git status
+  159  git branch
+  160  ls
+  161  rm -rf 7.txt
+  162  git status
+  163  git restore 7.txt
+  164  ls
+  165  git status
+  166  rm -rf 7.txt
+  167  git add .
+  168  git status
+  169  git commit -m "my thir commit to delete 7.txt"
+  170  git push -u origin manish
+  171  git fetch
+  172  git branch
+  173  git checkout main
+  174  git fetch
+  175  git fetch origin manish
+  176  git fetch origin main
+  177  git switch manish
+  178  git fetch
+  179  git branch
+  180  gi pullt origin
+  181  git pull origin
+  182  git fetch
+  183  git pul origin 
+  184  git pull origin main 
+  185  ls
+  186  git pull origin manish
+  187  git pull origin main 
+  188  git fetch origin main
+  189  git pull origin main 
+  190  ls
+  191  cd abcde
+  192  git branch
+  193  ls
+  194  cd divyank
+  195  touch 18.txt
+  196  git add .
+  197  git status 
+  198  cd ..
+  199  git add .
+  200  git status 
+  201  git commit "4th commit pushing a dir with fileinside the dir"
+  202  git commit -m "4th commit pushing a dir with fileinside the dir"
+  203  git branch
+  204  git push -u origin main
+  205  git branch
+  206  git switch main
+  207  git branch 
+  208  git branch -a
+  209  ls
+  210  ls -latr
+  211  cd abcde
+  212  ls -latr
+  213  cd .git
+  214  ls
+  215  cd branches
+  216  ls -lart
+  217  ls
+  218  ls -a
+  219  ls -al
+  220  ls -alh
+  221  ls -r
+  222  ls -t
+  223  ls -at
+  224  ls -lart
+  225  ls -la
+  226  cd ..
+  227  ls -lart
+  228  cd abcde
+  229  ls
+  230  git status
+  231  git branch
+  232  ls
+  233  cd abcde/
+  234  ls
+  235  git branch
+  236  git switch manish 
+  237  git branch rahul
+  238  git branch -a
+  239  git branch -d rahul
+  240  git branch -a
+  241  git checkout main
+  242  git checkout manish 
+  243  ls
+  244  git checkout main
+  245  ls
+  246  git checkout manish
+  247  git checkout main
+  248  ls
+  249  git checkout manish
+  250  ls
+  251  git checkout main
+  252  git fetch origin main
+  253  git pull origin main
+  254  ls
+  255  git checkout main
+  256  git checkout manish
+  257  git checkout main
+  258  git fetch orgin main
+  259  git fetch origin main
+  260  git fetch origin manish
+  261  git switch manish
+  262  git branch 
+  263  git status
+  264  git push -u origin manish
+  265  git status
+  266  git switch main
+  267  cd abcde
+  268  git remote -v
+  269  cd abcde
+  270  git staus
+  271  ls
+  272  git fetch
+  273  git fetch origin
+  274  git branch
+  275  git log
+  276  git revert 3a7aeae
+  277  ls
+  278  git status
+  279  shutdown
+  280  reboot
+  281  cd abcde/
+  282  git branch
+  283  bit log
+  284  git log
+  285  ls
+  286  git fetch
+  287  git branch
+  288  git revert --help
+  289  git revert 3a7aeae
+  290  git push -u
+  291  ls
+  292  git revert 3a7aeae
+  293  git log
+  294  ls
+  295  git revert 1a79160
+  296  ls
+  297  git status
+  298  git push -u origin main
+  299  ls
+  300  git log
+  301  git revert 4a2a85f
+  302  ls
+  303  git push -u
+  304  git status
+  305  git push -u
+  306  cd abcde/
+  307  git log
+  308  cd abcde
+  309  gi log --all 17.txt
+  310  git log --all --17.txt
+  311  git log --all -- 17.txt
+  312  sudo apt install git filter-repo
+  313  sudo apt install git-filter-repo
+  314  git filter-repo --path 17.txt --invert-paths
+  315  git filter-repo --path 17.txt --invert-paths --force
+  316  git log --all -- 17 txt
+  317  ls
+  318  cd abcde/
+  319  git log
+  320  git diff 0dfe1bcd977d95036f2e86f6714c482f4fad3e3f 6c6d6c77cc93b2e32f044f7d63ac9969665f46ff
+  321  git diff 6c6d6c77cc93b2e32f044f7d63ac9969665f46ff 0dfe1bcd977d95036f2e86f6714c482f4fad3e3f
+  322  top
+  323  df -kh
+  324  lsblk
+  325  ls
+  326  cd /
+  327  ls
+  328  pwd
+  329  cd ~
+  330  ls
+  331  pwd
+  332  cd /home
+  333  ls
+  334  cd ubuntu
+  335  ls
+  336  sudo apt install tree -y
+  337  tree --help
+  338  tree -a
+  339  cd /
+  340  tree
+  341  ping google.com
+  342  cd abcde
+  343  ls
+  344  git status
+  345  git branch
+  346  git log
+  347  git stash
+  348  git diff 7cc34118d92a2b9b8d4c7434ffd8d4b70b9b925e d3781f8b038e5af2f1ca37a2379ce229de10d362
+  349  date
+  350  timedatectl set-timezone Asia/Kolkata
+  351  sudo timedatectl set-timezone Asia/Kolkata 
+  352  daate
+  353  date
+  354  user add
+  355  useradd avardhan
+  356  sudo useradd avar
+  357  su avar
+  358  passwd avar aroot
+  359  passwd avar
+  360  sudo passwd avar
+  361  su avar
+  362  pwd
+  363  ls
+  364  useradd --help
+  365  useradd -U
+  366  cat users
+  367  ls
+  368  LS
+  369  ls
+  370  mkdir mergeconflict
+  371  cd mergeconflict/
+  372  ls
+  373  git init 
+  374  git remote add orogin https://github.com/Avar8873/avarintellipat.git
+  375  ls
+  376  git pull origin
+  377  git pull orgin main
+  378  git remote add origin https://github.com/Avar8873/avarintellipat.git
+  379  git status
+  380  git branch
+  381  git log
+  382  git pull origin
+  383  ls
+  384  git pull origin main
+  385  ls
+  386  git branch
+  387  git checkout main
+  388  git remote -v
+  389  git switch main
+  390  git branch
+  391  git branch -a
+  392  git pull origin manish
+  393  cd ..
+  394  mkdir mergerconflict1
+  395  cd mergeconflict1
+  396  rm -rf mergerconflict1
+  397  mkdir mergeconflict1
+  398  cd mergeconflict1
+  399  git clone https://github.com/Avar8873/avarintellipat.git
+  400  git branch
+  401  git status
+  402  ls
+  403  git init
+  404  ls -latr
+  405  cd avarintellipat/
+  406  ls
+  407  cd ..
+  408  git branch
+  409  git branch -a
+  410  git branch -all
+  411  git branch --all
+  412  cd avarintellipat/
+  413  git branch --all
+  414  git branch -a
+  415  git checkout manish
+  416  git branch -a
+  417  git checkout main 
+  418  git branch -a
+  419  git checkout manish
+  420  git branch 
+  421  git checkout main
+  422  git branch
+  423  git checkout -b demo
+  424  ls
+  425  touch demo.txt
+  426  git add demo.txt
+  427  git commit -m "reconfirming pushing a branch"
+  428  git push -u origin demo
+  429  git checkout main
+  430  touch rohit.txt
+  431  git add rohit.txt
+  432  git commit -m "just adding rohit"
+  433  git push -u
+  434  git remote -v
+  435  git pull
+  436  git checkout -b feature-branch
+  437  echo "feature branch chnages" >> example.txt
+  438  gi add example.txt
+  439  git add example.txt
+  440  git commit -m "Add chnages in feature -branch"
+  441  cd mergeconflict
+  442  cd ..
+  443  cd mergeconflict1
+  444  ls
+  445  cd avarintellipat/
+  446  git status
+  447  git branch
+  448  git push -u origin feature-branch
+  449  git checkout main 
+  450  ls
+  451  git checkout -b conflict-branch
+  452  echo "conflicting branch chnages" >>example.txt
+  453  git add example.txt
+  454  git commit -m "Add conflicting chnages in conflicitng-branch"
+  455  git push -u origin conflict-branch 
+  456  git branch
+  457  git checkout main
+  458  git merge feature-branch
+  459  git merge conflict-branch
+  460  cd /mergeconflict1/avarintellipat
+  461  cd mergeconflict1/avarintellipat
+  462  git branch
+  463  git status
+  464  cat example.txt
+  465  vi example.txt
+  466  cat example.txt 
+  467  git status
+  468  git add .
+  469  git status
+  470  git commit -m conflict problem resolved
+  471  git commit -m "conflict problem resolved"
+  472  git log --oneline
+  473  git branch
+  474  git push -u
+  475  git log --oneline
+  476  history
+  477  history >> history.txt
